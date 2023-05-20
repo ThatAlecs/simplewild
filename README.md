@@ -12,3 +12,5 @@ Download the .jar,
 extract the jar with 7zip,
 Open SimpleWild.java with an IDE,
 Make your changes and export
+
+(I'll add a config file eventually)

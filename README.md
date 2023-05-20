@@ -8,7 +8,7 @@ Adds a /wild command for Minecraft versions prior to Beta 1.7.3
 -It has a coordinate radius of 5000 blocks.
 
 TO MODIFY THE PLUGIN:
-Download the .jar
-extract the jar with 7zip
-Open a SimpleWild.java with an IDE
+Download the .jar,
+extract the jar with 7zip,
+Open a SimpleWild.java with an IDE,
 Make your changes and export

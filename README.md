@@ -10,5 +10,5 @@ Adds a /wild command for Minecraft versions prior to Beta 1.7.3
 TO MODIFY THE PLUGIN:
 Download the .jar,
 extract the jar with 7zip,
-Open a SimpleWild.java with an IDE,
+Open SimpleWild.java with an IDE,
 Make your changes and export

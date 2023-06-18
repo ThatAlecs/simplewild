@@ -1,6 +1,6 @@
 **Overview**
 
-SimpleWild is adds a /wild command to Uberbukkit/Craftbukkit 1060 for versions prior to Minecraft beta 1.7.3
+SimpleWild adds a /wild command to Uberbukkit/Craftbukkit 1060 for versions prior to Minecraft beta 1.7.3
 
 **Features:**
 

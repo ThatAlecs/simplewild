@@ -1,0 +1,14 @@
+name: SimpleWild
+version: 2.0.1
+main: p.thatalecs.simplewild.SimpleWild
+author: ThatAlecs
+description: A simple wild teleportation plugin
+
+commands:
+  wild:
+    description: Teleports the player to a random location
+    usage: /wild
+permissions:
+  simplewild.wild:
+    description: Allows players to use the /wild command
+    default: true
